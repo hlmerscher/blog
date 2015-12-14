@@ -1677,4 +1677,15 @@ input + button {
 
 .after-signup {
   display: none;
+  margin-top: 30px;
+}
+
+.feedback-container {
+  text-align: center;
+}
+
+.feedback-container h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
 }
